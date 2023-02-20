@@ -1,0 +1,31 @@
+PREREQUISITES:
+
+Advanced Duplicator 2:
+- https://steamcommunity.com/workshop/filedetails/?id=773402917
+OR
+- https://github.com/wiremod/advdupe2
+
+
+Wiremod:
+
+- https://steamcommunity.com/sharedfiles/filedetails/?id=160250458
+OR
+- https://github.com/wiremod/wire
+
+
+Wire FPGA:
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2384925255
+OR
+- https://github.com/wiremod/wire-fpga
+
+
+Gterminal V2:
+- https://steamcommunity.com/sharedfiles/filedetails/?id=734626021
+
+
+Wire for gTerminal:
+- https://steamcommunity.com/sharedfiles/filedetails/?id=874260686
+
+
+Fading door tool:
+- https://steamcommunity.com/sharedfiles/filedetails/?id=115753588
